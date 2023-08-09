@@ -9,7 +9,7 @@
 		<Metadata name="CommonModule.oapi_Описание.Module" id="76b4fae6-077f-4568-90a4-69889d0352c1.0" configVersion="f8953f936654c8d051be5ea9aadff55250e27302"/>
 		<Metadata name="CommonPicture.oapi_Swagger" id="63fb1ff0-8d86-4043-9e5d-cc4bba0cfbb4" configVersion="33459ee6f2688f5e9209145d39ca50785ba30640"/>
 		<Metadata name="CommonPicture.oapi_Swagger.Picture" id="63fb1ff0-8d86-4043-9e5d-cc4bba0cfbb4.0" configVersion="07415a3f1134a8bf6b18a07a91229b8eb761cb19"/>
-		<Metadata name="Configuration.OpenAPI" id="c4da611c-f19e-4cf1-9102-210ccabdd444" configVersion="e5eef2b952cbc9bed9c186d73c80313039e2adaa"/>
+		<Metadata name="Configuration.OpenAPI" id="c4da611c-f19e-4cf1-9102-210ccabdd444" configVersion="b0a6897fda3e1545b480850135fc07cf7685bcf6"/>
 		<Metadata name="DataProcessor.oapi_Swagger" id="bbfefad2-0e49-43e3-a6a5-cddd9afdd4fb" configVersion="d5f3fea3f73fc91f2c00e8ddfe911b2eb48c1a1f"/>
 		<Metadata name="DataProcessor.oapi_Swagger.Form.Форма" id="a571fe2a-98b0-45f7-b4cf-2928f8dc3db2" configVersion="9f580963c56a5529ac86695960c2aca9ad38fb42"/>
 		<Metadata name="DataProcessor.oapi_Swagger.Form.Форма.Form" id="a571fe2a-98b0-45f7-b4cf-2928f8dc3db2.0" configVersion="c81e7125dde1dd3ce4bcb947c7144783d2f61c16"/>
@@ -18,9 +18,9 @@
 		<Metadata name="DataProcessor.oapi_Swagger.Template.swagger_editor" id="fc2644bc-3aff-4fc6-a2cb-a8a2c7bdfcc5" configVersion="91118cccbe0834fd4b252a4fe55a3527a759c330"/>
 		<Metadata name="DataProcessor.oapi_Swagger.Template.swagger_editor.Template" id="fc2644bc-3aff-4fc6-a2cb-a8a2c7bdfcc5.0" configVersion="f653a4b66cc8271baff1a2222c34e7798809852a"/>
 		<Metadata name="DataProcessor.oapi_Swagger.Template.МакетКода" id="9a09cd39-c9a0-4dc0-ac05-3bf0ca490d4e" configVersion="9ee4c883b1380bf46303d6e2416b9818fde974c3"/>
-		<Metadata name="DataProcessor.oapi_Swagger.Template.МакетКода.Template" id="9a09cd39-c9a0-4dc0-ac05-3bf0ca490d4e.0" configVersion="92e995b8a5b68f62b8a77da7391258301eb6f847"/>
+		<Metadata name="DataProcessor.oapi_Swagger.Template.МакетКода.Template" id="9a09cd39-c9a0-4dc0-ac05-3bf0ca490d4e.0" configVersion="e985976dd1ec8661b4d9c60d5f0abbc96884587b"/>
 		<Metadata name="DataProcessor.oapi_Swagger.Template.МакетОбъектовРедактора" id="eb1ab9ff-adf2-40af-8e6d-ce5f2c5cb6f2" configVersion="46417215e0ae9b2b306427edbc7b031e63806488"/>
-		<Metadata name="DataProcessor.oapi_Swagger.Template.МакетОбъектовРедактора.Template" id="eb1ab9ff-adf2-40af-8e6d-ce5f2c5cb6f2.0" configVersion="a117965478b8b81d140eac6edcd49d138a7940a5"/>
+		<Metadata name="DataProcessor.oapi_Swagger.Template.МакетОбъектовРедактора.Template" id="eb1ab9ff-adf2-40af-8e6d-ce5f2c5cb6f2.0" configVersion="580548bafccbfadceeab75e5a4e2802f58e48024"/>
 		<Metadata name="DataProcessor.oapi_ВариантЗапроса" id="b13f8982-c14f-4136-a811-193ed2137198" configVersion="208b8d74c24419a1579b9c92de1b4dc0f2bff462">
 			<Metadata name="DataProcessor.oapi_ВариантЗапроса.Attribute.ТипДанных" id="991c8aa6-7d1e-4096-b87b-5ec9c270cd70"/>
 			<Metadata name="DataProcessor.oapi_ВариантЗапроса.Attribute.КраткоеОписание" id="bea2ab58-dbe9-4d3c-adfa-e4540aee839a"/>
@@ -79,7 +79,7 @@
 			<Metadata name="DataProcessor.oapi_Сервис.TabularSection.Сервера" id="e5091cac-0574-400f-b8c6-81a1db199f62"/>
 			<Metadata name="DataProcessor.oapi_Сервис.Attribute.Версия" id="f777ea69-cf35-4755-9c26-d341bdd64261"/>
 		</Metadata>
-		<Metadata name="DataProcessor.oapi_Сервис.ObjectModule" id="954a5706-d80f-4909-9f76-8bf6758c6627.0" configVersion="81ff6bccbf3786269aedbb286757133fa929896b"/>
+		<Metadata name="DataProcessor.oapi_Сервис.ObjectModule" id="954a5706-d80f-4909-9f76-8bf6758c6627.0" configVersion="a5f7789b498f0c150c7e943b78e957a7f2f952fa"/>
 		<Metadata name="DataProcessor.oapi_Соответствие" id="6b9ca6ff-d582-4d1d-8abd-3a963df26147" configVersion="6fbb7cf57e70962f44c17ff081a71ad7bfdd6916">
 			<Metadata name="DataProcessor.oapi_Соответствие.Attribute.Обязательное" id="5da147d6-2f73-45b2-970a-728d9a03d971"/>
 			<Metadata name="DataProcessor.oapi_Соответствие.Attribute.ИдентификаторСхемыДанных" id="c7f22a75-fdbf-48fd-b912-c78745c12701"/>
