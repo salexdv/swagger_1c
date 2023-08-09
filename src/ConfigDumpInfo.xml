@@ -55,7 +55,7 @@
 			<Metadata name="DataProcessor.oapi_Метод.Attribute.КраткоеОписание" id="a6ee0e89-8050-4b70-bb79-4b9f4acdab49"/>
 			<Metadata name="DataProcessor.oapi_Метод.Attribute.ПолноеОписание" id="d062c9ff-a794-4a59-9f2c-058a718ef3b9"/>
 		</Metadata>
-		<Metadata name="DataProcessor.oapi_Метод.ObjectModule" id="0cbc7e56-f226-4b59-9ef9-196deee25161.0" configVersion="93619dbe93d21447ee36a1fa5913969d9da5448a"/>
+		<Metadata name="DataProcessor.oapi_Метод.ObjectModule" id="0cbc7e56-f226-4b59-9ef9-196deee25161.0" configVersion="fa6cf07df3643bfd2d764561b521b7f70285b6a0"/>
 		<Metadata name="DataProcessor.oapi_ПараметрЗапроса" id="07747bf1-e870-49f1-8cc3-e0d52bf0200e" configVersion="f019b38d393039f64aa482e3eabc3598e96ce69b">
 			<Metadata name="DataProcessor.oapi_ПараметрЗапроса.Attribute.Метод" id="1b0a0973-576b-4007-9ad2-e188d32e0279"/>
 			<Metadata name="DataProcessor.oapi_ПараметрЗапроса.Attribute.Сервис" id="51b7879d-e1fe-4877-af89-01cb2631095c"/>
@@ -79,7 +79,7 @@
 			<Metadata name="DataProcessor.oapi_Сервис.TabularSection.Сервера" id="e5091cac-0574-400f-b8c6-81a1db199f62"/>
 			<Metadata name="DataProcessor.oapi_Сервис.Attribute.Версия" id="f777ea69-cf35-4755-9c26-d341bdd64261"/>
 		</Metadata>
-		<Metadata name="DataProcessor.oapi_Сервис.ObjectModule" id="954a5706-d80f-4909-9f76-8bf6758c6627.0" configVersion="de9757ce620e851f960f2276d1ea39e7e18eac14"/>
+		<Metadata name="DataProcessor.oapi_Сервис.ObjectModule" id="954a5706-d80f-4909-9f76-8bf6758c6627.0" configVersion="81ff6bccbf3786269aedbb286757133fa929896b"/>
 		<Metadata name="DataProcessor.oapi_Соответствие" id="6b9ca6ff-d582-4d1d-8abd-3a963df26147" configVersion="6fbb7cf57e70962f44c17ff081a71ad7bfdd6916">
 			<Metadata name="DataProcessor.oapi_Соответствие.Attribute.Обязательное" id="5da147d6-2f73-45b2-970a-728d9a03d971"/>
 			<Metadata name="DataProcessor.oapi_Соответствие.Attribute.ИдентификаторСхемыДанных" id="c7f22a75-fdbf-48fd-b912-c78745c12701"/>
