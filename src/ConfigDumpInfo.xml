@@ -79,7 +79,7 @@
 			<Metadata name="DataProcessor.oapi_Сервис.TabularSection.Сервера" id="e5091cac-0574-400f-b8c6-81a1db199f62"/>
 			<Metadata name="DataProcessor.oapi_Сервис.Attribute.Версия" id="f777ea69-cf35-4755-9c26-d341bdd64261"/>
 		</Metadata>
-		<Metadata name="DataProcessor.oapi_Сервис.ObjectModule" id="954a5706-d80f-4909-9f76-8bf6758c6627.0" configVersion="da839f156b10e3b3fde23335d19a38c1993fa9b6"/>
+		<Metadata name="DataProcessor.oapi_Сервис.ObjectModule" id="954a5706-d80f-4909-9f76-8bf6758c6627.0" configVersion="7bef4e1623c1e68b28e1577dfd2f862761ac85f5"/>
 		<Metadata name="DataProcessor.oapi_Соответствие" id="6b9ca6ff-d582-4d1d-8abd-3a963df26147" configVersion="6fbb7cf57e70962f44c17ff081a71ad7bfdd6916">
 			<Metadata name="DataProcessor.oapi_Соответствие.Attribute.Обязательное" id="5da147d6-2f73-45b2-970a-728d9a03d971"/>
 			<Metadata name="DataProcessor.oapi_Соответствие.Attribute.ИдентификаторСхемыДанных" id="c7f22a75-fdbf-48fd-b912-c78745c12701"/>
