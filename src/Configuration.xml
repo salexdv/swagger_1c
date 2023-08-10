@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>salexdv</Vendor>
-			<Version>0.0.3</Version>
+			<Version>0.0.4</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -64,6 +64,7 @@
 			<Language>Русский</Language>
 			<Subsystem>OpenAPI</Subsystem>
 			<CommonPicture>oapi_Swagger</CommonPicture>
+			<Role>oapi_OpenAPI</Role>
 			<CommonModule>oapi_Документация</CommonModule>
 			<CommonModule>oapi_ОбщегоНазначения</CommonModule>
 			<CommonModule>oapi_Описание</CommonModule>
